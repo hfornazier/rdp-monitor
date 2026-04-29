@@ -109,9 +109,9 @@ O painel exibe em tempo real:
 O sistema monitora tentativas de login falhas (EventID 4625).
 Quando um IP atinge o limite configurado em `max_tentativas`, ele é:
 
-1. **Bloqueado no firewall** do Windows automaticamente (porta 3389)
+1. **Bloqueado no firewall** do Windows automaticamente (todo o tráfego do IP)
 2. **Registrado no banco** com data, hora e número de tentativas
-3. **Exibido no painel** com botão para desbloquear
+3. **Exibido no painel** com botão para desbloquear manualmente
 
 ## 🔨 Compilar do código-fonte
 
