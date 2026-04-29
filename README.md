@@ -1,6 +1,8 @@
 # 🖥️ RDP Monitor
-
 Monitor de acessos RDP para Windows com painel web em tempo real.
+
+**Humberto Fornazier**
+- GitHub: [@hfornazier](https://github.com/hfornazier)
 
 ## 📋 Funcionalidades
 
